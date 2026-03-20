@@ -96,6 +96,7 @@ java TP01ex1
 ```
 
 Executando via IDE
+
 Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
 
 Navegue até o arquivo do exercício desejado (Ex: TP01ex1.java)
@@ -108,20 +109,22 @@ IntelliJ: Shift + F10
 
 VS Code: F5 ou Ctrl + F5
 
-🎯 Objetivos de Aprendizagem
-Compreender e aplicar operadores aritméticos em Java
+## 🎯 Objetivos de Aprendizagem
 
-Utilizar a classe Scanner para entrada de dados
+- ✅ Compreender e aplicar operadores aritméticos em Java
 
-Aplicar fórmulas matemáticas e geométricas
+- ✅ Utilizar a classe Scanner para entrada de dados
 
-Realizar conversões de unidades (temperatura, comprimento, moeda)
+- ✅ Aplicar fórmulas matemáticas e geométricas
 
-Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
+- ✅ Realizar conversões de unidades (temperatura, comprimento, moeda)
 
-Desenvolver a lógica de programação através de problemas práticos
+- ✅ Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
 
-Trabalhar em equipe utilizando controle de versão
+- ✅ Desenvolver a lógica de programação através de problemas práticos
+
+- ✅ Trabalhar em equipe utilizando controle de versão
+
 
 📄 Licença
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
