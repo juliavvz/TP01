@@ -1,79 +1,76 @@
-  ## Trabalho Prático 01 - Introdução à Programação Java
+# Trabalho Prático 01 - Introdução à Programação Java
 
-  ## 📚 Sobre o Projeto
+## 📚 Sobre o Projeto
 
-  ## Trabalho Prático desenvolvido para a disciplina CBTLPR1 - Linguagem de Programação I do curso*ADS (Análise e Desenvolvimento de Sistemas) 
-  no IFSP Campus Cubatão, sob orientação do professor Wellington Tuler Moraes.
+Trabalho Prático desenvolvido para a disciplina **CBTLPR1 - Linguagem de Programação I** do curso **ADS (Análise e Desenvolvimento de Sistemas)** no **IFSP Campus Cubatão**, sob orientação do professor **Wellington Tuler Moraes**.
 
-O projeto consiste em 18 exercícios de introdução à programação com Java, abordando os conceitos fundamentais da linguagem, incluindo:
-- Operadores aritméticos, lógicos e relacionais
-- Estruturas de controle condicional (if-else)
-- Estruturas de repetição
+O projeto consiste em 18 exercícios de introdução à programação com Java, abordando:
 - Entrada e saída de dados
+- Operadores aritméticos
+- Cálculos matemáticos e geométricos
+- Conversões de unidades
+- Fórmulas físicas e trigonométricas
 
 ## 👥 Autores
 
-- Júlia Vitória - (https://github.com/juliavvz)
-- Lucas Antônio - (https://github.com/rapaduragames)
+- **Júlia Vitória** - (https://github.com/juliavvz)
+- **Lucas Antônio** - (https://github.com/rapaduragames)
 
-Turma: ADS 371 - IFSP Campus Cubatão
+*Turma: ADS 371 - IFSP Campus Cubatão*
 
 ## 📋 Lista de Exercícios
 
-| Nº | Exercício | Conceitos Abordados |
-|----|-----------|---------------------|
-| 01 | Operadores Aritméticos | Variáveis, operadores matemáticos, entrada/saída |
-| 02 | Comparação de Números | Operadores relacionais (==, !=, >, <, >=, <=) |
-| 03 | Operadores Lógicos (&&, \|\|) | Expressões booleanas, curto-circuito |
-| 04 | Estrutura if-else | Condicional simples e composta |
-| 05 | Par ou Ímpar | Operador módulo (%), estrutura condicional |
-| 06 | Maior de Três Números | Operadores relacionais, if-else aninhado |
-| 07 | Calculadora Simples | switch-case, operadores aritméticos |
-| 08 | Média Aritmética | Cálculo de média, estrutura condicional |
-| 09 | Tabuada | Estrutura de repetição for |
-| 10 | Fatorial | Estrutura de repetição while/for |
-| 11 | Números Primos | Estruturas de repetição aninhadas |
-| 12 | Sequência Fibonacci | Laços de repetição, lógica matemática |
-| 13 | Soma de Dígitos | Operadores matemáticos, laços |
-| 14 | Conversão de Temperatura | Fórmulas matemáticas, entrada/saída |
-| 15 | Área de Figuras Geométricas | Cálculo de áreas, switch-case |
-| 16 | Validação de Data | Estruturas condicionais aninhadas |
-| 17 | Jogo de Adivinhação | Números aleatórios, laços condicionais |
-| 18 | Menu Interativo | Combinação de estruturas, modularização |
+| Nº | Exercício | Descrição |
+|----|-----------|-----------|
+| 01 | Área do Retângulo | Calcular a área a partir da base e altura |
+| 02 | Área do Quadrado (aresta) | Calcular a área a partir do valor da aresta |
+| 03 | Área do Quadrado (diagonal) | Calcular a área a partir do valor da diagonal |
+| 04 | Área do Triângulo | Calcular a área a partir da base e altura |
+| 05 | Volume da Esfera | Calcular o volume a partir do diâmetro |
+| 06 | Média Aritmética | Calcular a média de quatro valores |
+| 07 | Média Geométrica | Calcular a média geométrica de dois valores |
+| 08 | Milhas para Quilômetros | Converter milhas marítimas em quilômetros |
+| 09 | Lei de Ohm | Calcular tensão a partir da resistência e corrente |
+| 10 | Celsius para Fahrenheit | Converter temperatura de °C para °F |
+| 11 | Área do Círculo | Calcular a área a partir do diâmetro |
+| 12 | Volume do Cone | Calcular o volume a partir da altura e raio da base |
+| 13 | Velocidade Final | Calcular velocidade final (km/h) a partir de Vo, aceleração e tempo |
+| 14 | Volume Livre do Ambiente | Calcular volume livre de um cubo com esfera inscrita |
+| 15 | Dólar para Real | Converter dólar para real a partir da cotação |
+| 16 | Funções Trigonométricas | Calcular seno, cosseno, tangente e secante de um ângulo |
+| 17 | Potenciação (X^Y) | Calcular X elevado a Y utilizando Exp e Ln |
+| 18 | Cálculo do Troco | Calcular troco a partir de 5 produtos e valor pago |
 
 ## 📚 Conteúdo Teórico Aplicado
 
-### Operadores Trabalhados
+### Operadores Aritméticos
+- `+` (adição)
+- `-` (subtração)
+- `*` (multiplicação)
+- `/` (divisão)
+- `%` (módulo - resto da divisão)
+- `Math.pow()` (potenciação)
+- `Math.sqrt()` (raiz quadrada)
 
-**Operadores Relacionais:**
-- `==` (igual a)
-- `!=` (diferente de)
-- `>` (maior que)
-- `<` (menor que)
-- `>=` (maior ou igual a)
-- `<=` (menor ou igual a)
+### Funções Matemáticas em Java
+- `Math.PI` - constante π
+- `Math.sin()` - seno
+- `Math.cos()` - cosseno
+- `Math.tan()` - tangente
+- `Math.toRadians()` - converte graus para radianos
+- `Math.exp()` - exponencial
+- `Math.log()` - logaritmo natural
 
-**Operadores Lógicos:**
-- `&&` (E lógico - AND) - com comportamento de curto-circuito
-- `||` (OU lógico - OR) - com comportamento de curto-circuito
+### Entrada e Saída de Dados
+- `Scanner` - leitura de dados do teclado
+- `System.out.println()` - exibição de resultados
 
-### Estruturas de Controle
+## 🚀 Tecnologias Utilizadas
 
-**if (condicional):**
-````
-if (condicao) {
-    // expressão executada se condição for verdadeira
-}
-else {
-    // executado se condição for falsa
-}
-````
-🚀 Tecnologias Utilizadas
-Java SE (versão 17 ou superior)
+- **Java SE** (versão 17 ou superior)
+- **JDK** (Java Development Kit)
+- IDE recomendada: Eclipse, IntelliJ IDEA ou VS Code
 
-JDK (Java Development Kit)
-
-IDE recomendada: Eclipse, IntelliJ IDEA ou VS Code
 
 ## 🔧 Como Executar
 
@@ -93,35 +90,38 @@ Para compilar um exercício específico:
 ```bash
 javac src/exercicio01/Exercicio01.java
 ```
-
 Para executar:
 ```bash
 java -cp src exercicio01.Exercicio01
 ```
 
 Executando via IDE
+Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
 
-Abra o projeto na sua IDE preferida
-Navegue até o arquivo do exercício desejado
-Clique em "Run" ou use o atalho de execução
+Navegue até o arquivo do exercício desejado em src/exercicioXX/ExercicioXX.java
 
- ## 🎯 Objetivos de Aprendizagem
+Clique em "Run" ou use o atalho de execução:
 
-- ✅ Compreender e aplicar operadores aritméticos, lógicos e relacionais
-- ✅ Utilizar estruturas condicionais (if, if-else, switch-case)
-- ✅ Implementar estruturas de repetição (for, while, do-while)
-- ✅ Desenvolver a lógica de programação através de problemas práticos
-- ✅ Aplicar boas práticas de programação e organização de código
-- ✅ Trabalhar em equipe utilizando controle de versão
+Eclipse: Ctrl + F11
 
+IntelliJ: Shift + F10
 
- ## 📊 Avaliação
- 
-Este trabalho prático compõe a nota da disciplina CBTLPR1 e avalia:
-Corretude das soluções implementadas
-Organização e legibilidade do código
-Uso adequado das estruturas de controle
-Participação e colaboração em dupla
+VS Code: F5 ou Ctrl + F5
+
+🎯 Objetivos de Aprendizagem
+✅ Compreender e aplicar operadores aritméticos em Java
+
+✅ Utilizar a classe Scanner para entrada de dados
+
+✅ Aplicar fórmulas matemáticas e geométricas
+
+✅ Realizar conversões de unidades (temperatura, comprimento, moeda)
+
+✅ Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
+
+✅ Desenvolver a lógica de programação através de problemas práticos
+
+✅ Trabalhar em equipe utilizando controle de versão
 
 📄 Licença
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
