@@ -21,9 +21,6 @@
         System.out.println(r);
         
         
-
-        
-        
         scanner.close();
     }
 }

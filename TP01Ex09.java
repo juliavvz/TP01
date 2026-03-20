@@ -3,3 +3,25 @@
   Utilize a lei de Ohm.
  
   Dupla: Júlia Vitória e Lucas Antônio*/
+
+  import java.util.Scanner;
+
+  public class TP01Ex09 {   
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+
+        System.out.println("Digite valor da resistência:");
+        double r = scanner.nextDouble();
+
+        System.out.println("Digite valor da corrente:");
+        double i = scanner.nextDouble();
+
+        double t = r * i;
+
+        System.out.println(t);
+        
+        
+        scanner.close();
+    }
+}
