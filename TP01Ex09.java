@@ -17,9 +17,9 @@
         System.out.println("Digite valor da corrente:");
         double i = scanner.nextDouble();
 
-        double t = r * i;
+        double tensão = r * i;
 
-        System.out.println(t);
+        System.out.println(tensão);
         
         
         scanner.close();
