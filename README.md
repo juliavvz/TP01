@@ -83,38 +83,45 @@ O projeto consiste em 18 exercícios de introdução à programação com Java, 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/Trabalho-Pratico-01.git
-cd Trabalho-Pratico-01
+git clone https://github.com/juliavvz/TP01.git
+cd TP01
 ```
 Para compilar um exercício específico:
 ```bash
-javac src/exercicio01/Exercicio01.java
+javac TP01ex1.java
 ```
 Para executar:
 ```bash
-java -cp src exercicio01.Exercicio01
+java TP01ex1
 ```
-### Executando via IDE
 
-1. Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
+Executando via IDE
+Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
 
-2. Navegue até o arquivo do exercício desejado em `src/exercicioXX/ExercicioXX.java`
+Navegue até o arquivo do exercício desejado (Ex: TP01ex1.java)
 
-3. Clique em "Run" ou use o atalho de execução:
-   - **Eclipse**: Ctrl + F11
-   - **IntelliJ**: Shift + F10
-   - **VS Code**: F5 ou Ctrl + F5
+Clique em "Run" ou use o atalho de execução:
 
-## 🎯 Objetivos de Aprendizagem
+Eclipse: Ctrl + F11
 
-- ✅ Compreender e aplicar operadores aritméticos, lógicos e relacionais
-- ✅ Utilizar estruturas condicionais (if, if-else, switch-case)
-- ✅ Implementar estruturas de repetição (for, while, do-while)
-- ✅ Desenvolver a lógica de programação através de problemas práticos
-- ✅ Aplicar boas práticas de programação e organização de código
-- ✅ Trabalhar em equipe utilizando controle de versão
-  
+IntelliJ: Shift + F10
 
+VS Code: F5 ou Ctrl + F5
+
+🎯 Objetivos de Aprendizagem
+Compreender e aplicar operadores aritméticos em Java
+
+Utilizar a classe Scanner para entrada de dados
+
+Aplicar fórmulas matemáticas e geométricas
+
+Realizar conversões de unidades (temperatura, comprimento, moeda)
+
+Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
+
+Desenvolver a lógica de programação através de problemas práticos
+
+Trabalhar em equipe utilizando controle de versão
 
 📄 Licença
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
