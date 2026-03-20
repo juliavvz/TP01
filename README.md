@@ -108,20 +108,16 @@ IntelliJ: Shift + F10
 
 VS Code: F5 ou Ctrl + F5
 
-🎯 Objetivos de Aprendizagem
-✅ Compreender e aplicar operadores aritméticos em Java
+## 🎯 Objetivos de Aprendizagem
 
-✅ Utilizar a classe Scanner para entrada de dados
+- ✅ Compreender e aplicar operadores aritméticos, lógicos e relacionais
+- ✅ Utilizar estruturas condicionais (if, if-else, switch-case)
+- ✅ Implementar estruturas de repetição (for, while, do-while)
+- ✅ Desenvolver a lógica de programação através de problemas práticos
+- ✅ Aplicar boas práticas de programação e organização de código
+- ✅ Trabalhar em equipe utilizando controle de versão
+  
 
-✅ Aplicar fórmulas matemáticas e geométricas
-
-✅ Realizar conversões de unidades (temperatura, comprimento, moeda)
-
-✅ Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
-
-✅ Desenvolver a lógica de programação através de problemas práticos
-
-✅ Trabalhar em equipe utilizando controle de versão
 
 📄 Licença
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
