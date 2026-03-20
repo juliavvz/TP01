@@ -108,10 +108,15 @@ Clique em "Run" ou use o atalho de execução
  ## 🎯 Objetivos de Aprendizagem
 
 ✅ Compreender e aplicar operadores aritméticos, lógicos e relacionais
+
 ✅ Utilizar estruturas condicionais (if, if-else, switch-case)
+
 ✅ Implementar estruturas de repetição (for, while, do-while)
+
 ✅ Desenvolver a lógica de programação através de problemas práticos
+
 ✅ Aplicar boas práticas de programação e organização de código
+
 ✅ Trabalhar em equipe utilizando controle de versão
 
  ## 📊 Avaliação
