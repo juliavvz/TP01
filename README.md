@@ -94,19 +94,16 @@ Para executar:
 ```bash
 java -cp src exercicio01.Exercicio01
 ```
+### Executando via IDE
 
-Executando via IDE
-Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
+1. Abra o projeto na sua IDE preferida (Eclipse, IntelliJ IDEA ou VS Code)
 
-Navegue até o arquivo do exercício desejado em src/exercicioXX/ExercicioXX.java
+2. Navegue até o arquivo do exercício desejado em `src/exercicioXX/ExercicioXX.java`
 
-Clique em "Run" ou use o atalho de execução:
-
-Eclipse: Ctrl + F11
-
-IntelliJ: Shift + F10
-
-VS Code: F5 ou Ctrl + F5
+3. Clique em "Run" ou use o atalho de execução:
+   - **Eclipse**: Ctrl + F11
+   - **IntelliJ**: Shift + F10
+   - **VS Code**: F5 ou Ctrl + F5
 
 ## 🎯 Objetivos de Aprendizagem
 
