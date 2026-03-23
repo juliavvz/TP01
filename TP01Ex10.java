@@ -8,5 +8,7 @@ public class TP01Ex10 {
          double C = sc.nextDouble();
 
         System.out.println(" : " + (C * 9/5 + 32));
+
+        sc.close();
     }
 }
