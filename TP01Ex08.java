@@ -9,5 +9,7 @@ public class TP01Ex08 {
         double m = sc.nextDouble();
 
         System.out.println("Medida em quilometros: " + (m * 1.852));
+
+        sc.close();
     }
 }
