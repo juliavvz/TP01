@@ -12,5 +12,7 @@ public class TP01Ex12 {
         double H = sc.nextDouble();
 
         System.out.println("Volume do cone = " + ((3.14 * R * H) / 3));
+
+        sc.close();
     }
 }
