@@ -111,20 +111,20 @@ VS Code: F5 ou Ctrl + F5
 
 ## 🎯 Objetivos de Aprendizagem
 
-- ✅ Compreender e aplicar operadores aritméticos em Java
+-  Compreender e aplicar operadores aritméticos em Java
 
-- ✅ Utilizar a classe Scanner para entrada de dados
+-  Utilizar a classe Scanner para entrada de dados
 
-- ✅ Aplicar fórmulas matemáticas e geométricas
+-  Aplicar fórmulas matemáticas e geométricas
 
-- ✅ Realizar conversões de unidades (temperatura, comprimento, moeda)
+-  Realizar conversões de unidades (temperatura, comprimento, moeda)
 
-- ✅ Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
+-  Utilizar funções da biblioteca Math (pow, sqrt, sin, cos, tan, exp, log)
 
-- ✅ Desenvolver a lógica de programação através de problemas práticos
+-  Desenvolver a lógica de programação através de problemas práticos
 
-- ✅ Trabalhar em equipe utilizando controle de versão
+-  Trabalhar em equipe utilizando controle de versão
 
 
-📄 Licença
+📄 Licença:
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
