@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class TP01ex04 {
+public class TP01Ex04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
