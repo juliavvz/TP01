@@ -4,9 +4,9 @@ public class TP01Ex10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("graus Celsius,");
+        System.out.println("graus Celsius:");
          double C = sc.nextDouble();
 
-        System.out.println("fahrenheit: " + (C * 9/5 + 32));
+        System.out.println(" : " + (C * 9/5 + 32));
     }
 }
