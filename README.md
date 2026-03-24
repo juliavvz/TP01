@@ -1,6 +1,6 @@
 # Trabalho Prático 01 - Introdução à Programação Java
 
-## 📚 Sobre o Projeto
+##  Sobre o Projeto
 
 Trabalho Prático desenvolvido para a disciplina **CBTLPR1 - Linguagem de Programação I** do curso **ADS (Análise e Desenvolvimento de Sistemas)** no **IFSP Campus Cubatão**, sob orientação do professor **Wellington Tuler Moraes**.
 
@@ -18,7 +18,7 @@ O projeto consiste em 18 exercícios de introdução à programação com Java, 
 
 *Turma: ADS 371 - IFSP Campus Cubatão*
 
-## 📋 Lista de Exercícios
+##  Lista de Exercícios
 
 | Nº | Exercício | Descrição |
 |----|-----------|-----------|
@@ -41,7 +41,7 @@ O projeto consiste em 18 exercícios de introdução à programação com Java, 
 | 17 | Potenciação (X^Y) | Calcular X elevado a Y utilizando Exp e Ln |
 | 18 | Cálculo do Troco | Calcular troco a partir de 5 produtos e valor pago |
 
-## 📚 Conteúdo Teórico Aplicado
+##  Conteúdo Teórico Aplicado
 
 ### Operadores Aritméticos
 - `+` (adição)
@@ -65,14 +65,14 @@ O projeto consiste em 18 exercícios de introdução à programação com Java, 
 - `Scanner` - leitura de dados do teclado
 - `System.out.println()` - exibição de resultados
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java SE** (versão 17 ou superior)
 - **JDK** (Java Development Kit)
 - IDE recomendada: Eclipse, IntelliJ IDEA ou VS Code
 
 
-## 🔧 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 
@@ -109,7 +109,7 @@ IntelliJ: Shift + F10
 
 VS Code: F5 ou Ctrl + F5
 
-## 🎯 Objetivos de Aprendizagem
+##  Objetivos de Aprendizagem
 
 -  Compreender e aplicar operadores aritméticos em Java
 
@@ -126,5 +126,5 @@ VS Code: F5 ou Ctrl + F5
 -  Trabalhar em equipe utilizando controle de versão
 
 
-📄 Licença:
+ Licença:
 Este projeto é desenvolvido para fins educacionais no âmbito do curso de ADS do IFSP Campus Cubatão.
