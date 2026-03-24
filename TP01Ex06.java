@@ -1,4 +1,9 @@
 
+/** Calcular e exibir a média aritmética de quatro valores quaisquer que serão
+* digitados.
+ *  
+ *  Dupla: Júlia Vitória e Lucas Antônio
+ */
 import java.util.Scanner;
 
 public class TP01Ex06 {
