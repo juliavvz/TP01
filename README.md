@@ -11,12 +11,17 @@ O projeto consiste em 18 exercícios de introdução à programação com Java, 
 - Conversões de unidades
 - Fórmulas físicas e trigonométricas
 
-## 👥 Autores
+##  Autores
 
 - **Júlia Vitória** - (https://github.com/juliavvz)
 - **Lucas Antônio** - (https://github.com/rapaduragames)
 
 *Turma: ADS 371 - IFSP Campus Cubatão*
+
+##  Demonstração do projeto
+
+[Vídeo dos programas funcionando](https://youtu.be/o1583uIBu9Q)
+
 
 ##  Lista de Exercícios
 
